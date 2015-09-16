@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 洞眞上清青要紫書金根眾經
-#+DATE: 2015-08-29 02:58:15
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:58:12.595841
+#+TITLE: 洞真上清青要紫書金根眾經
+#+PROPERTY: DZID  DZ1315
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，33—423 二卷 正一部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
