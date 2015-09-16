@@ -1,8 +1,8 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 洞眞上清青要紫書金根眾經
-#+DATE: 2015-08-29 02:58:15
+#+TITLE: 洞真上清青要紫書金根眾經
+#+DATE: 2015-08-29 02:58:16
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: JUAN 0
 
 
